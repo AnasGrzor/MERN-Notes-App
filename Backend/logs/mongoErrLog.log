@@ -1,0 +1,15 @@
+20231114	16:58:51	eec92c64-09f2-4376-afb6-a88487f7c0bf	undefined: ECONNREFUSED	querySrv	_mongodb._tcp.cluster1.duboawr.mongodb.net
+20231114	16:59:35	91463142-8a1a-4048-989c-26ec6827bec0	undefined: 8000	undefined	undefined
+20231114	17:00:19	14fba4e7-46c6-442d-ad7f-1e2638890e2a	undefined: undefined	undefined	undefined
+20231114	17:00:32	8b07dcc6-f147-48c2-a426-69a2c9d52746	undefined: undefined	undefined	undefined
+20231114	17:19:39	056ef124-4114-485c-9926-b766bae0ce8c	undefined: ESERVFAIL	queryTxt	cluster1.duboawr.mongodb.net
+20231114	18:40:36	2baf84f3-3cec-4a5d-a55f-d6c485eb8b21	undefined: ESERVFAIL	queryTxt	cluster1.duboawr.mongodb.net
+20231114	18:43:50	dcacc164-7565-4045-a9fd-b1e131e4d727	undefined: ESERVFAIL	querySrv	_mongodb._tcp.cluster1.duboawr.mongodb.net
+20231114	19:02:11	f7040f88-1a06-4845-bc67-ce13e23d1edc	undefined: ESERVFAIL	querySrv	_mongodb._tcp.cluster1.duboawr.mongodb.net
+20231114	19:02:35	672b9533-3c27-46a2-b84b-b8cfc6ff4b1f	undefined: ESERVFAIL	queryTxt	cluster1.duboawr.mongodb.net
+20231114	19:11:33	2a317787-64ac-4d9a-967b-bed3b97a0723	undefined: ESERVFAIL	queryTxt	cluster1.duboawr.mongodb.net
+20231114	19:54:12	7938231f-2176-4dca-b74c-7ef4ebf7af38	undefined: ESERVFAIL	queryTxt	cluster1.duboawr.mongodb.net
+20231125	20:51:16	ccbe3e6a-9365-4f22-bd30-68d735f56039	undefined: ESERVFAIL	queryTxt	cluster1.duboawr.mongodb.net
+20231127	20:40:36	0707263f-8a46-466b-84ea-c4fd54e3347c	undefined: undefined	undefined	undefined
+20231127	20:41:27	fa83c2bc-3651-4acb-8703-56b4ba17e4cb	undefined: undefined	undefined	undefined
+20231127	21:32:39	7ef163dd-941b-4b93-9428-884be204495c	undefined: ESERVFAIL	queryTxt	cluster1.duboawr.mongodb.net
